@@ -11,7 +11,7 @@ Fast forward to recent times. Over the last few years, I've done independent res
 
 Thing is, I haven't delved enough into blockchain to know where I fit. This course is a directed effort on my part to gain working knowledge of a technology to better understand it's potential applications. I can't think of a better guide than ConsenSys.
 
-Being on a small tropical island can feel isolating when it comes to exploring big bold frontiers liek blockchain. When you find kindred spirits, you tend to cluster. To that end, my friend and fellow enthisuast Cyrus Luhr will be pursuing this course with me, so that we can support each other through the work necessary to understand development on the Ethereum blockchain and fill in gaps in our self-taught programming backgrounds.
+Being on a small tropical island can feel isolating when it comes to exploring big bold frontiers like blockchain. When you find kindred spirits, you tend to cluster. To that end, my friend and fellow enthisuast Cyrus Luhr will be taking this course alongside me, so that we can support each other through the work necessary to understand development on the Ethereum blockchain and fill in gaps in our self-taught programming backgrounds.
 
 I was also been lucky enough to meet some folks at Camp DECENTRAL at Burning Man 2017 and attend a number of excellent talks. At the end of this course, I'll head back to the Playa and hope to be able to better connect over blockchain and how it can further some of the ideals shared during the week. This year, if I meet Thessy again, I'll actually stay in touch ;)
 
